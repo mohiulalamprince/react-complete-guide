@@ -1,0 +1,2 @@
+[0212/151906.867:ERROR:persistent_memory_allocator.cc(738)] Corruption detected in shared-memory segment.
+[0212/151906.875:ERROR:exception_handler_server.cc(524)] ConnectNamedPipe: The pipe is being closed. (0xE8)
